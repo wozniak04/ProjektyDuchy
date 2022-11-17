@@ -39,7 +39,7 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.Nazwa.AutoSize = true;
-            this.Nazwa.Font = new System.Drawing.Font("Ink Free", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.Nazwa.Font = new System.Drawing.Font("Segoe Script", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.Nazwa.Location = new System.Drawing.Point(3, 0);
             this.Nazwa.Name = "Nazwa";
             this.Nazwa.Size = new System.Drawing.Size(804, 56);
