@@ -24,6 +24,10 @@ namespace phasmo
             Moc.Text = dane[0].moce;
             Dowody.Text = dane[0].dowody;
         }
-       
+
+        private void Opisducha_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

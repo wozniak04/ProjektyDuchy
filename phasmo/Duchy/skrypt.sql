@@ -12,7 +12,7 @@ zabijając każdego kto zostanie
 przyłapany na nadmiernej gościnności.',
 'Użycie kadzidła w pokoju powstrzyma ducha przed atakowaniem na dłuższy czas.',
 'Nie ma żadnych specjalnych mocy',
-'EMF poziom 5,Spirit Box,Pismo ducha'
+'EMF poziom 5, Spirit Box, Pismo ducha'
 ),
 (
 	'Wraith',
@@ -22,7 +22,7 @@ jedyny byt, który potrafi lewitować i
 czasami przenika przez ściany.',
 'Wraith prawie nigdy nie dotykają ziemi, co oznacza, że nie można ich śledzić poprzez odciski stóp.',
 'Sól działa na Wraith negatywnie.',
-'EMF poziom 5,Spirit Box,Projektor D.O.T.S'
+'EMF poziom 5, Spirit Box, Projektor D.O.T.S'
 ),
 (
 	'Fantom',
@@ -32,7 +32,7 @@ przez tabliczkę Ouija. Wzbudza również
 strach w ludziach otaczających go.',
 'Patrzenie na Fantoma znacznie obniży Twoje zdrowie psychiczne.',
 'Sfotografowanie Fantoma sprawi że tymczasowo zniknie.',
-'EMF poziom 5,Odciski palców,Projektor D.O.T.S'
+'EMF poziom 5, Odciski palców, Projektor D.O.T.S'
 ),
 (
 	'Poltergeist',
@@ -42,7 +42,7 @@ istota, może manipulować obiektami wokół,
 aby wzbudzać strach w swoich ofiarach.',
 'Poltergeist może rzucać wieloma przedmiotamy z potężną siłą.',
 'Poltergeist jest mało skuteczny w pustych pomieszczeniach.',
-'Odciski palców,Spirit Box,Pismo ducha'
+'Odciski palców, Spirit Box, Pismo ducha'
 ),
 (
 	'Banshee',
@@ -52,7 +52,7 @@ wybiera konkretną ofiarę, zanim zadaje
 śmiertelny cios.',
 'Banshee osłabi swój cel przed atakiem.',
 'Krzyki Banshee słychać czasami przy użyciu mikrofonu parabolicznego.',
-'Odciski palców,Orb,Projektor D.O.T.S'
+'Odciski palców, Orb, Projektor D.O.T.S'
 ),
 (
 	'Jinn',
@@ -62,7 +62,7 @@ Wiadomo nam, że może się przemieszczać z
 ogromną prędkością.',
 'Jinn będzie poruszał się szybciej gdy jego ofiara jest daleko.',
 'Wyłączenie źródła zasilania powstrzyma Jinna przed użyciem jego umiejętności.',
-'EMF poziom 5,Odciski palców,Mroźne temperatury'
+'EMF poziom 5, Odciski palców, Mroźne temperatury'
 ),
 (
 	'Mara',
@@ -70,7 +70,7 @@ ogromną prędkością.',
 czyniąc ją potężniejszą w ciemności.',
 'Istnieje duże prawdopodobieństwo, że Mara zaatakuje w mroku.',
 'Włączenie światła w jej otoczeniu zmniejszy szansę na atak.',
-'Spirit Box,Orb,Pismo ducha'
+'Spirit Box, Orb, Pismo ducha'
 ),
 (
 	'Revenant',
@@ -81,7 +81,7 @@ gdy tylko zacznie polować, może poruszać się
 niesamowicie szybko.',
 'Prędkość Revenanta zwiększa się gdy atakuję ofiarę.',
 'Ukrycie się przed nim sprawi, żę będzie wolniejszy.',
-'Orb,Pismo ducha,Mroźne temperatury'
+'Orb, Pismo ducha, Mroźne temperatury'
 ),
 (
 	'Shade',
@@ -91,7 +91,7 @@ zatrzyma wszelkie paranormalne zjawisko
 jeśli w pobliżu znajduje się więcej ludzi.',
 'Shade jest o wiele trudniejszy do znalezienia.',
 'Shade nie zacznie atakować jeśli w pobliżu ktoś się znajduje.',
-'EMF poziom 5,Pismo ducha,Mroźne temperatury'
+'EMF poziom 5, Pismo ducha, Mroźne temperatury'
 ),
 (
 	'Demon',
@@ -101,7 +101,7 @@ tego, że atakują bez powodu, wydają się
 czerpać przyjemność z polowania.',
 'Demony inicjują polowania częściej niż inne duchy.',
 'Demony boją isę krucyfiksu i będą mniej agrysywne w jego pobliżu.',
-'Odciski palców,Pismo ducha,Mroźne temperatury'
+'Odciski palców, Pismo ducha, Mroźne temperatury'
 ),
 (
 	'Yurei',
@@ -110,7 +110,7 @@ fizycznego świata, zazwyczaj z nienawiści
 lub w celu zemsty.',
 'Yurei jest znany z wywierania silnego wpływu na ludzką psychikę.',
 'Zapalanie kadzidła w pookju Yurei powoduje, że nie błąka się po lokacji przez dłuższy czas.',
-'Orb,Mroźne temperatury,Projektor D.O.T.S'
+'Orb, Mroźne temperatury, Projektor D.O.T.S'
 ),
 (
 	'Oni(tka)',
@@ -120,7 +120,7 @@ Często widuje się je w sowjej fizycznej
 postaci, strzegące miejsca śmierci.',
 'Oni(tka) jest bardziej aktywny jeśli w pobliżu są ludzie i iszytbciej pozbawia ich psychiki podczas manifestowania się.',
 'Oni(tka) znika o wiele rzadziej podczas polowania.',
-'EMF poziom 5,Mroźne temperatury,Projektor D.O.T.S'
+'EMF poziom 5, Mroźne temperatury, Projektor D.O.T.S'
 ),
 (
 	'Yokai',
@@ -129,7 +129,7 @@ przyciąga ludzki głos. Zwykle można go
 spotkać w domach rodzinnych.',
 'Rozmowa w jego pobliżu zdenerwuje go i zwiększy szansę na atak.',
 'Podczas nawiedzania słyszy tylko najbliższy głos.',
-'Spirit Box,Orb,Projektor D.O.T.S'
+'Spirit Box, Orb, Projektor D.O.T.S'
 ),
 (
 	'Hantu',
@@ -138,7 +138,7 @@ najzimniejszym klimacie. Wydaje się, że
 zimno czyni go bardziej agrysywnym i wzmocnionym.',
 'Niższe temperatury powodują szybsze poruszanie się Hantu.',
 'Hantu będzie poruszać się wolniej w cieplejszych obszarach.',
-'Odciski palców,Orb,Mroźne temperatury'
+'Odciski palców, Orb, Mroźne temperatury'
 ),
 (
 	'Goryo',
@@ -147,7 +147,7 @@ zostać ujawniony przez światło laserowe
 tylko kiedy jest ogladany przez kamerę.',
 'Goryo zwykle widoczny jest przez aparat tylko wtedy, gdy w pobliżu nie ma ludzi.',
 'Rzadko widuje się go z dala od miejsca śmierci.',
-'EMF poziom 5,Odciski palców,Projektor D.O.T.S'
+'EMF poziom 5, Odciski palców, Projektor D.O.T.S'
 ),
 (
 	'Myling',
@@ -156,7 +156,7 @@ Plotki mówią, że podczas polowania na
 zdobyc zachowują się cicho.',
 'Myling znany jest z cichego zachowania podczas polowania.',
 'Myling cześciej wydjae paranormalne dźwięki.',
-'EMF poziom 5,Odciski palców,Pismo ducha'
+'EMF poziom 5, Odciski palców, Pismo ducha'
 ),
 (
 	'Onryo',
@@ -167,7 +167,7 @@ ten duch boi się każdej formy ognia i zrobi
 wszystko, aby być jak najdalej od niego.',
 'Zgaszenie płomienia może spowodować atak Onryo.',
 'Gdy jest zagrożony, ten duch będzie mniej skłonny do polowania.',
-'Spirit Box,Orb,Mroźne temperatury'
+'Spirit Box, Orb, Mroźne temperatury'
 ),
 (
 	'Twins',
@@ -176,7 +176,7 @@ nawzajem swoje działania. Atakują na
 przemian, aby zmylić zdobycz.',
 'Każdy z bliźniaków może się rozgniewać i zaatakować swoją ofiarę.',
 'Często wchodzą w interakcję z otoczeniem w tym samym czasie.',
-'EMF poziom 5,Spirit Box,Mroźne temperatury'
+'EMF poziom 5, Spirit Box, Mroźne temperatury'
 ),
 (
 	'Raiju',
@@ -185,7 +185,7 @@ elektrycznym. Chociaż ogólnie jest spokojny,
 może stać się agresywny, gdy jest przytłoczony mocą.',
 'Raiju pobiera energię z pobliskich urządzeń elektrycznych, dzięki czemu porusza się szybciej.',
 'Raiju nieustannie zakłóca działanie sprzętu elektronicznego ułatwiając śledzenie podczas ataku.',
-'EMF poziom 5,Orb,Projektor D.O.T.S'
+'EMF poziom 5, Orb, Projektor D.O.T.S'
 ),
 (
 	'Obake',
@@ -195,7 +195,7 @@ jak przybierają humanoidalne kształty, aby
 przyciągnąć swoją zdobycz.',
 'Podczas interakcji z otoczeniem Obake rzadko pozostawia ślady.',
 'Czasami ten duch zmienia kształt, pozostawiając po sobie unikalne dowody.',
-'EMF poziom 5,Odciski palców,Orb'
+'EMF poziom 5, Odciski palców, Orb'
 ),
 (
 	'Mimik',
@@ -204,7 +204,7 @@ duchem naśladowcą, który imituje cechy i
 zachowania innych, w tym inne typy duchów.',
 'Nie jesteśmy pewni, do czego zdolny jest ten duch. Bądź ostrożny.',
 'W kilku raportach odnotowano orby w pobliżu Mimika.',
-'Spirit Box,Odciski palców,Mroźne temperatury'
+'Spirit Box, Odciski palców, Mroźne temperatury'
 ),
 (
 	'Moroi',
@@ -215,7 +215,7 @@ jedynie za pomocą antidotum lub uciekając
 bardzo daleko.',
 'Im słabsze są jego ofiary, tym silniejszy Moro się staje.',
 'Moroi cierpią na hiperosmnię, więc słabną na dłuższy czas.',
-'Spirit Box,Pismo ducha,Mroźne temperatury'
+'Spirit Box, Pismo ducha, Mroźne temperatury'
 ),
 (
 	'Deogen',
@@ -226,7 +226,7 @@ najbardziej ukrytą zdobycz, po czym prześladuują ją
 aż do jej wycieńczenia.',
 'Deogen nieustannie wyczuwa żywych. Możesz uciekać, ale nie możesz się ukryć.',
 'Deogen wymaga dużo energii, aby się uformować i porusza siębardzo powoli będąc niedaleko ofiary.',
-'Spirit Box,Pismo ducha,Projektor D.O.T.S'
+'Spirit Box, Pismo ducha, Projektor D.O.T.S'
 ),
 (
 	'Thaye',
@@ -236,7 +236,7 @@ się dowiedzielismy, wydaje się, że ich stan
 pogarsza się szybciej w obecności żywych.',
 'Po wkroczeniu do lokacji, Thaye stanie się bardzo aktywny, defensywny i zwinny.',
 'Thaye z czasem słabnie, co czyni go słabszy, wolniejszym i mniej agresywnym.',
-'Orb,Pismo ducha,Projektor D.O.T.S'
+'Orb, Pismo ducha, Projektor D.O.T.S'
 );
 end
 	
