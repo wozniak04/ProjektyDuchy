@@ -85,12 +85,15 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(216)))), ((int)(((byte)(215)))), ((int)(((byte)(171)))));
+            this.ClientSize = new System.Drawing.Size(834, 461);
             this.Controls.Add(this.Slabosc);
             this.Controls.Add(this.Moc);
             this.Controls.Add(this.Opis);
             this.Controls.Add(this.Dowody);
             this.Controls.Add(this.Nazwa);
+            this.MaximumSize = new System.Drawing.Size(850, 500);
+            this.MinimumSize = new System.Drawing.Size(850, 500);
             this.Name = "Opisducha";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "Opisducha";

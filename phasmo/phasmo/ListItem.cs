@@ -35,5 +35,15 @@ namespace phasmo
             var okno = new Opisducha(this._nazwa);
             okno.ShowDialog();
         }
+
+        private void lblNazwa_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
