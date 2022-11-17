@@ -19,10 +19,10 @@ namespace phasmo
 
             List<Dane> dane = baza.szukaj_poNazwie(nazwa);
             Nazwa.Text = dane[0].nazwa;
-            Opis.Text = dane[0].opis;
-            Slabosc.Text = dane[0].slabosc;
-            Moc.Text = dane[0].moce;
-            Dowody.Text = dane[0].dowody;
+            Opis.Text = "Opis: " + dane[0].opis;
+            Slabosc.Text = "Słabości: " + dane[0].slabosc;
+            Moc.Text = "Wyjątkowa moc: " + dane[0].moce;
+            Dowody.Text = "Dowody: " + dane[0].dowody;
         }
 
         private void Opisducha_Load(object sender, EventArgs e)

@@ -53,7 +53,7 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.Dowody.AutoSize = true;
-            this.Dowody.Font = new System.Drawing.Font("Segoe Script", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.Dowody.Font = new System.Drawing.Font("Segoe Script", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.Dowody.Location = new System.Drawing.Point(3, 364);
             this.Dowody.Name = "Dowody";
             this.Dowody.Size = new System.Drawing.Size(804, 73);
@@ -67,7 +67,7 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.Opis.AutoSize = true;
-            this.Opis.Font = new System.Drawing.Font("Segoe Script", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.Opis.Font = new System.Drawing.Font("Segoe Script", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.Opis.Location = new System.Drawing.Point(3, 56);
             this.Opis.Name = "Opis";
             this.Opis.Size = new System.Drawing.Size(804, 170);
@@ -81,7 +81,7 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.Moc.AutoSize = true;
-            this.Moc.Font = new System.Drawing.Font("Segoe Script", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.Moc.Font = new System.Drawing.Font("Segoe Script", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.Moc.Location = new System.Drawing.Point(3, 226);
             this.Moc.Name = "Moc";
             this.Moc.Size = new System.Drawing.Size(804, 69);
@@ -95,7 +95,7 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.Slabosc.AutoSize = true;
-            this.Slabosc.Font = new System.Drawing.Font("Segoe Script", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.Slabosc.Font = new System.Drawing.Font("Segoe Script", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.Slabosc.Location = new System.Drawing.Point(3, 295);
             this.Slabosc.Name = "Slabosc";
             this.Slabosc.Size = new System.Drawing.Size(804, 69);

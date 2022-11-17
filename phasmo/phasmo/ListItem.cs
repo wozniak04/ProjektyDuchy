@@ -38,12 +38,19 @@ namespace phasmo
 
         private void lblNazwa_Click(object sender, EventArgs e)
         {
-
+            var okno = new Opisducha(this._nazwa);
+            okno.ShowDialog();
         }
 
         private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
         {
 
+        }
+
+        private void lblDowody_Click(object sender, EventArgs e)
+        {
+            var okno = new Opisducha(this._nazwa);
+            okno.ShowDialog();
         }
     }
 }
