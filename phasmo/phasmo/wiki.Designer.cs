@@ -41,7 +41,7 @@
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Segoe Script", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label1.Location = new System.Drawing.Point(461, 53);
+            this.label1.Location = new System.Drawing.Point(455, 53);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(349, 42);
             this.label1.TabIndex = 3;
@@ -61,7 +61,7 @@
             this.tableLayoutPanel1.RowCount = 2;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 20F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 80F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(1271, 747);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(1260, 747);
             this.tableLayoutPanel1.TabIndex = 4;
             // 
             // flowLayoutPanel1
@@ -72,7 +72,7 @@
             this.flowLayoutPanel1.BackColor = System.Drawing.Color.Transparent;
             this.flowLayoutPanel1.Location = new System.Drawing.Point(3, 152);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(1265, 592);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(1254, 592);
             this.flowLayoutPanel1.TabIndex = 4;
             // 
             // wiki
@@ -81,10 +81,11 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(216)))), ((int)(((byte)(215)))), ((int)(((byte)(171)))));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1295, 771);
+            this.ClientSize = new System.Drawing.Size(1284, 761);
             this.Controls.Add(this.tableLayoutPanel1);
             this.DoubleBuffered = true;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MinimumSize = new System.Drawing.Size(1300, 800);
             this.Name = "wiki";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "wiki";
