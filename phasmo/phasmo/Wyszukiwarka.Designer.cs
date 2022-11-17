@@ -158,7 +158,6 @@
             // 
             this.pictureBox7.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.pictureBox7.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox7.Image = global::phasmo.Properties.Resources.Spirit;
             this.pictureBox7.Location = new System.Drawing.Point(505, 430);
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(200, 187);
@@ -203,7 +202,6 @@
             // 
             this.button1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.button1.Font = new System.Drawing.Font("Impact", 11F);
-            this.button1.Image = global::phasmo.Properties.Resources.Lupa1;
             this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button1.Location = new System.Drawing.Point(793, 6);
             this.button1.Name = "button1";
@@ -217,7 +215,6 @@
             // 
             this.pictureBox6.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.pictureBox6.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox6.Image = global::phasmo.Properties.Resources.Orb;
             this.pictureBox6.Location = new System.Drawing.Point(263, 430);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(200, 187);
@@ -275,7 +272,6 @@
             // 
             this.pictureBox5.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.pictureBox5.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox5.Image = global::phasmo.Properties.Resources.Dots;
             this.pictureBox5.Location = new System.Drawing.Point(21, 430);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(200, 187);
@@ -300,7 +296,6 @@
             // 
             this.pictureBox1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox1.Image = global::phasmo.Properties.Resources.EMF2;
             this.pictureBox1.Location = new System.Drawing.Point(21, 139);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(200, 186);
@@ -324,7 +319,6 @@
             // 
             this.pictureBox4.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.pictureBox4.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox4.Image = global::phasmo.Properties.Resources.Temperatura;
             this.pictureBox4.Location = new System.Drawing.Point(748, 139);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(200, 186);
@@ -349,7 +343,6 @@
             // 
             this.pictureBox2.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.pictureBox2.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox2.Image = global::phasmo.Properties.Resources.Book;
             this.pictureBox2.Location = new System.Drawing.Point(263, 139);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(200, 186);
@@ -374,7 +367,6 @@
             // 
             this.pictureBox3.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.pictureBox3.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox3.Image = global::phasmo.Properties.Resources.Odciski;
             this.pictureBox3.Location = new System.Drawing.Point(505, 139);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(200, 186);
@@ -387,7 +379,6 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(216)))), ((int)(((byte)(215)))), ((int)(((byte)(171)))));
-            this.BackgroundImage = global::phasmo.Properties.Resources.Tło;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(984, 761);
             this.Controls.Add(this.tableLayoutPanel1);
